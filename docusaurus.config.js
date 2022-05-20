@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'index',
             position: 'left',
             label: 'Documents',
           },
@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ], */
-        copyright: `Copyright © ${new Date().getFullYear()} kuni93.moe | Kunigumi Yen, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} kuni93.moe | Kunigumi Yen, \nBuilt with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
