@@ -57,13 +57,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Docus',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Docusaurus Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Documents',
+          },
+          /* {
             type: 'doc',
             docId: 'intro',
             position: 'left',
@@ -74,12 +80,12 @@ const config = {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          }, */
         ],
       },
       footer: {
         style: 'dark',
-        links: [
+        /* links: [
           {
             title: 'Docs',
             items: [
@@ -119,8 +125,8 @@ const config = {
               },
             ],
           },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        ], */
+        copyright: `Copyright © ${new Date().getFullYear()} kuni93.moe | Kunigumi Yen, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
