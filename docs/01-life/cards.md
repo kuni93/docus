@@ -19,17 +19,22 @@
 
 ## 回饋認列
 
-### 個人常用認列統計
+### 個人常用認列紀錄
 
 認列 | 消費日期     | 項目                        | 銀行卡別         | 回饋   | 備註
 ----|------------|----------------------------|----------------|-------|-
-✔️  | 2022-03-29 | Buyandship                 | 玉山 - UBear    |` 3  %`
-✔️  | 2022-03-01 | Shopee                     | 玉山 - UBear    |` 3  %`
-✔️  | 2022-02-27 | LINE Pay                   | 玉山 - UBear    |` 3.8%`| 網路一般消費
+✔️  | 2022-04-25 | tenso                      | 玉山 - UBear    |` 3  %`| 網路一般消費
+✔️  | 2022-03-29 | Buyandship                 | 玉山 - UBear    |` 3  %`| 網路一般消費
+✔️  | 2022-03-01 | Shopee                     | 玉山 - UBear    |` 3  %`| 網路一般消費
+✔️  | 2022-04-24 | Linode                     | 兆豐 - e 秒刷    |` 4  %`| 新戶海外網購
+✔️  | 2022-04-23 | アソビストア（ASOBISTAGE）     | 兆豐 - e 秒刷    |` 4  %`| 新戶海外網購
+✔️  | 2022-04-12 | BANDAINAMCOID（バナコイン）　  | 兆豐 - e 秒刷    |` 4  %`| 新戶海外網購
+✔️  | 2022-04-08 | pixiv BOOTH                | 兆豐 - e 秒刷    |` 4  %`| 新戶海外網購
 ❌  | 2022-03-24 | MIXI                       | 兆豐 - e 秒刷    |` 0.5%`
 ✔️  | 2022-03-24 | アソビストア（物販）            | 兆豐 - e 秒刷    |` 4  %`| 新戶海外網購
 ✔️  | 2022-03-04 | WEBARENA                   | 兆豐 - e 秒刷    |` 4  %`| 新戶海外網購
 ✔️  | 2022-03-07 | b-mobile S 190PadSIM       | 中信 - Line Pay |` 2.8%`
+✔️  | 2022-04-07 | BANDAINAMCOID（バナコイン）　  | 中信 - 英雄聯盟   |`10  %`
 ✔️  | 2022-03-08 | Youtube channel membership | 中信 - 英雄聯盟   |`10  %`
 ✔️  | 2021-10-23 | Microsoft Store (Xbox)     | 中信 - 英雄聯盟   |`10  %`
 ✔️  | 2021-10-12 | Steam                      | 中信 - 英雄聯盟   |`10  %`
@@ -37,25 +42,22 @@
 
 ### 玉山 指定娛樂影音平台
 
-Disney+, Nintendo, PlayStation, Netflix, Spotify
-
-ref: https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/u-bear
+Disney+, Nintendo, PlayStation, Netflix, Spotify [^esun-ubear-website]
 
 
 ### 玉山 Pi 拍錢包合作通路
 
-ref: https://www.piapp.com.tw/enterprise/partners
+[piapp-partners](https://www.piapp.com.tw/enterprise/partners)
 
 
 ### 兆豐 8大行動支付
 
-台灣Pay、LINE Pay、街口支付、Pi拍錢包、悠遊付、橘子支付、歐付寶、icash Pay
+台灣Pay、LINE Pay、街口支付、Pi拍錢包、悠遊付、橘子支付、歐付寶、icash Pay [^mega-ehappy-website]
 
 
 ### 兆豐 網路一般消費
 
-網路統計參考
-ref: https://docs.google.com/spreadsheets/d/e/2PACX-1vRKRbikGbmzN266nhb4mJcRw2-LYG3qODVmzMGFZKLVf3MrKoBJI74NaBlSX9nOsq8HOhSFOEy0n8TF/pubhtml
+[網路統計參考](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKRbikGbmzN266nhb4mJcRw2-LYG3qODVmzMGFZKLVf3MrKoBJI74NaBlSX9nOsq8HOhSFOEy0n8TF/pubhtml)
 
 
 ### 中信 指定數位通路
@@ -65,6 +67,9 @@ Apple TV、CATCHPLAY、iTunes、KKBOX、LINE TV、LiTV、Netflix、Spotify、You
 Amazon Web Services、Dropbox、Google Drive、iCloud、Microsoft OneDrive
 台灣角川官方網站、尖端網路書店、青文出版社、長鴻新漫網、台灣東販出版社、東立電子書城、動畫瘋(限APP內購)、Booklive、BOOKWALKER、Kakao Webtoon、LINE Webtoon、POCKET COMICS
 udn售票、iNDIEVOX售票、KKTIX售票、ibon售票、tixcraft拓元售票、FamiTicket全網購票、OPENTIX兩廳院文化生活、中信兄弟售票網、年代售票、寬宏售票
+[^ctbc-lol-website]
 
-ref: https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html
 
+[^esun-ubear-website]: https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/u-bear
+[^ctbc-lol-website]: https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html
+[^mega-ehappy-website]: https://www.megabank.com.tw/personal/credit-card/card/happy
