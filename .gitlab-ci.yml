@@ -7,8 +7,8 @@ stages:
 test:
   stage: test
   script:
-  - yarn intsall
-  - yarn run build
+  - yarn install
+  - yarn build
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
@@ -16,7 +16,7 @@ pages:
   stage: deploy
   script:
   - yarn install
-  - yarn run build
+  - yarn build
   artifacts:
     paths:
     - build
