@@ -27,6 +27,7 @@ jobs:
         run: |
           npm ci
           npm run build
+          echo 'github.docus.kuni93.moe' >> ./build/CNAME
 
       - name: gh-pages
         uses: peaceiris/actions-gh-pages@v3
