@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocus=self.webpackChunkdocus||[]).push([[4852],{1939:function(e){e.exports=JSON.parse('{"title":"CLI","slug":"/category/cli","permalink":"/docs/category/cli","navigation":{"previous":{"title":"Index","permalink":"/docs/"},"next":{"title":"yt-dlp","permalink":"/docs/cli/ytdlp"}}}')}}]);
