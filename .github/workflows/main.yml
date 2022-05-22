@@ -11,7 +11,6 @@ on:
 jobs:
   build:
     env:
-      USER_USERNAME: kuni93
       USER_GITHUB_TOKEN: ${{secrets.USER_GITHUB_TOKEN}}
 
     runs-on: ubuntu-latest
@@ -36,9 +35,9 @@ jobs:
         run: |
           cd ./build
           git init
-          git config --local user.name "Github Action"
-          git config --local user.name "githubaction@kuni93.moe"
-          git remote add origin https://$USER_USERNAME:$USER_GITHUB_TOKEN@github.com/kuni93/docus.git
+          git config --global user.name "Github Action"
+          git config --global user.name "githubaction@kuni93.moe"
+          git remote add origin https://$USER_GITHUB_TOKEN@github.com/kuni93/docus.git
           git checkout -b gh-pages
           git add --all
           git commit -m "Publish $GITHUB_SHA to gh-pages"
