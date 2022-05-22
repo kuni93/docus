@@ -1,0 +1,45 @@
+name: gh-pages
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    env:
+      USER_USERNAME: kuni93
+      USER_GITHUB_TOKEN: ${{secrets.USER_GITHUB_TOKEN}}
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: npm
+        run: |
+          npm ci
+          npm run build
+
+      - name: gh-pages
+        run: |
+          cd ./build
+          git init
+          git config --local user.name "Github Action"
+          git config --local user.name "githubaction@kuni93.moe"
+          git remote add origin https://$USER_USERNAME:$USER_GITHUB_TOKEN@github.com/kuni93/docus.git
+          git checkout -b gh-pages
+          git add --all
+          git commit -m "Publish $GITHUB_SHA to gh-pages"
+          git push -f origin gh-pages
