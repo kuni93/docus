@@ -3,9 +3,9 @@
 aws ec2 faq and some tips.
 
 
-## Time sync when deny any outbound
+## Time sync when security group deny all outbound
 
-在關閉所有對外連線的狀況下，VM 會無法進行時間同步。
+在關閉所有對外連線或沒有網際網路的狀況下，VM 會無法進行時間同步。
 AWS 預留了一個 Link-local address 可在此情況下提供時間同步的服務。
 
 ### Use chrony
@@ -31,8 +31,8 @@ $ chronyc sources -v
 ```
 
 
-### Ref.
+### Reference
 
-- 中文文件： https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/set-time.html
-- 原文文件： https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html
+- 正體中文： https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/set-time.html
+- English: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html
 
