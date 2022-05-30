@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocus=self.webpackChunkdocus||[]).push([[324],{3208:function(e){e.exports=JSON.parse('{"title":"Life","slug":"/category/life","permalink":"/docs/category/life","navigation":{"previous":{"title":"yt-dlp","permalink":"/docs/cli/ytdlp"},"next":{"title":"Cards","permalink":"/docs/life/cards"}}}')}}]);
