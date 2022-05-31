@@ -1,6 +1,6 @@
-# KUNiGUMi Live event log
+# My LIVE log
 
-[這個人](https://www.plurk.com/TzuLum) 的 LIVE 活動參加紀錄
+[這個人](https://www.plurk.com/TzuLum) 的 LIVE（音樂、聲優、偶像）活動參加紀錄
 
 圖例： ✈ = 海外參加, 🛰 = 線下轉播, 🌐 = 線上串流 [^online-streaming-1]
 
