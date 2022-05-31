@@ -1,8 +1,8 @@
-# KUNiGUMi Live event log
+# LIVE log
 
-[這個人](https://www.plurk.com/TzuLum) 的 LIVE 活動參加紀錄
+[這個人](https://www.plurk.com/TzuLum) 的 LIVE（音樂、聲優、偶像）活動參加紀錄
 
-圖例： ✈ = 海外參加, 🛰 = 線下轉播, 🌐 = 線上串流 [^online-streaming-1]
+圖例： ✈ = 海外參加, 🛰 = 線下轉播, 🌐 = 線上串流 [^1]
 
 
 ## 2016
@@ -81,4 +81,4 @@
 - [x] バンダイナムコエンターテインメントフェスティバル 2nd [Day1, Day2 🌐ASOBISTAGE]
 
 
-[^online-streaming-1]: 線上轉播僅紀錄付費參加活動
+[^1]: 線上轉播僅紀錄付費參加活動
