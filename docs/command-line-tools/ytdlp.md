@@ -1,6 +1,6 @@
 # yt-dlp
 
-yt-dlp[^ytdlp-github] 比 youtube-dl 還好用的 Youtube Downloader，個人常用 yt-dlp 指令組合整理
+yt-dlp[^1] 比 youtube-dl 還好用的 Youtube Downloader，個人常用 yt-dlp 指令組合整理
 
 
 ## Best video
@@ -29,4 +29,4 @@ yt-dlp -f 'ba[acodec^=opus],ba[acodec^=mp4a]' -x --embed-thumbnail --embed-metad
 --cookies-from-browser vivaldi
 ```
 
-[^ytdlp-github]: https://github.com/yt-dlp/yt-dlp
+[^1]: https://github.com/yt-dlp/yt-dlp
