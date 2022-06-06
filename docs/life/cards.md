@@ -45,7 +45,7 @@
 
 ### 玉山 指定娛樂影音平台
 
-Disney+, Nintendo, PlayStation, Netflix, Spotify [^esun-ubear-website]
+Disney+, Nintendo, PlayStation, Netflix, Spotify [^1]
 
 
 ### 玉山 Pi 拍錢包合作通路
@@ -55,7 +55,7 @@ Disney+, Nintendo, PlayStation, Netflix, Spotify [^esun-ubear-website]
 
 ### 兆豐 8大行動支付
 
-台灣Pay、LINE Pay、街口支付、Pi拍錢包、悠遊付、橘子支付、歐付寶、icash Pay [^mega-ehappy-website]
+台灣Pay、LINE Pay、街口支付、Pi拍錢包、悠遊付、橘子支付、歐付寶、icash Pay [^2]
 
 
 ### 兆豐 網路一般消費
@@ -70,9 +70,9 @@ Apple TV、CATCHPLAY、iTunes、KKBOX、LINE TV、LiTV、Netflix、Spotify、You
 Amazon Web Services、Dropbox、Google Drive、iCloud、Microsoft OneDrive
 台灣角川官方網站、尖端網路書店、青文出版社、長鴻新漫網、台灣東販出版社、東立電子書城、動畫瘋(限APP內購)、Booklive、BOOKWALKER、Kakao Webtoon、LINE Webtoon、POCKET COMICS
 udn售票、iNDIEVOX售票、KKTIX售票、ibon售票、tixcraft拓元售票、FamiTicket全網購票、OPENTIX兩廳院文化生活、中信兄弟售票網、年代售票、寬宏售票
-[^ctbc-lol-website]
+[^3]
 
 
-[^esun-ubear-website]: https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/u-bear
-[^ctbc-lol-website]: https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html
-[^mega-ehappy-website]: https://www.megabank.com.tw/personal/credit-card/card/happy
+[^1]: https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/u-bear
+[^2]: https://www.megabank.com.tw/personal/credit-card/card/happy
+[^3]: https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html
