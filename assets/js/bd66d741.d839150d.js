@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocus=self.webpackChunkdocus||[]).push([[324],{3208:function(e){e.exports=JSON.parse('{"title":"Life","description":"Life","slug":"/category/life","permalink":"/docs/category/life","navigation":{"previous":{"title":"AWS EC2","permalink":"/docs/iaas/awsec2"},"next":{"title":"Cards","permalink":"/docs/life/cards"}}}')}}]);
