@@ -56,8 +56,7 @@ dd if=test of=/dev/null bs=1M
 swap off & on
 
 ```bash
-sudo dphys-swapfile swapoff
-sudo dphys-swapfile swapon
+sudo dphys-swapfile swapoff && sudo dphys-swapfile swapon
 ```
 
 亦可透過以下指令檢查記憶體跟 swap 的狀態
