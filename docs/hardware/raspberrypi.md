@@ -7,7 +7,7 @@ Raspberry Pi faq and some tips.
 
 為了確保記憶卡的相容性，預設設定會限制性能較好記憶卡的讀寫速度，透過以下設定可以釋放更多性能。
 
-:::danger WARNING!
+:::caution
 
 以下步驟僅在 Raspberry Pi 3 B+ & Raspberry Pi OS (Raspbian) 64-bit 2022-04-04 版本測試及使用。且不保證所有硬體皆相容該設定，請自行評估相關操作的硬體損壞風險。
 
