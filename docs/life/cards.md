@@ -78,6 +78,19 @@ udn售票、iNDIEVOX售票、KKTIX售票、ibon售票、tixcraft拓元售票、F
 [^3]
 
 
+## MGM 申辦推薦連結
+
+- 玉山 - UBear: [MGM Link](https://card.esunbank.com.tw/EsunCreditweb/txnproc/selApplyCard?PRJCD=APYCRD0055&param=APYCRD0055,,,,,oxuzuyuzuvuquyuzuwuuvxzpexoxgw0pg9dB32471,,,,,e) [^4]
+- 玉山 - Pi 拍錢包: [MGM Link](https://card.esunbank.com.tw/EsunCreditweb/txnproc/selApplyCard?PRJCD=APYCRD0049&param=APYCRD0049,,,,,xOzOyOzvOqOyOzwOuBxApxvx0wtp9qBvOOr042778,,,,,e) [^5]
+- 中信 - 英雄聯盟: [MGM Link](https://ctbc.tw/BzsyOB) [^6]
+- 兆豐 - e 秒刷: [MGM Link](https://ebank.megabank.com.tw/MegaMCreditCardWeb/default.jsp?e=MGM&p=21CB8D&c=%7B1E86375F-1D70-46C0-9909-121272227B16%7D)
+- 兆豐 - e 秒 Happy: [MGM Link](https://ebank.megabank.com.tw/MegaMCreditCardWeb/default.jsp?e=MGM&p=21CB8D&c=%7B1837E44D-E3EB-4730-BE87-EF29A47F4BB2%7D)
+
+
 [^1]: https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/u-bear
 [^2]: https://www.megabank.com.tw/personal/credit-card/card/happy
 [^3]: https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html
+[^4]: https://www.esunbank.com.tw/event/credit/1110428mgm/index.html
+[^5]: https://www.esunbank.com.tw/event/credit/1110428mgm/index.html
+[^6]: https://www.ctbcbank.com/content/dam/minisite/long/creditcard/LOL/index.html
+
