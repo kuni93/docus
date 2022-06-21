@@ -80,6 +80,8 @@ udn售票、iNDIEVOX售票、KKTIX售票、ibon售票、tixcraft拓元售票、F
 
 ## MGM 申辦推薦連結
 
+如果你對上述卡別有興趣，歡迎透過以下推薦連結（MGM Link）申辦，個別活動辦法補充於註腳。
+
 - 玉山 - UBear: [MGM Link](https://card.esunbank.com.tw/EsunCreditweb/txnproc/selApplyCard?PRJCD=APYCRD0055&param=APYCRD0055,,,,,oxuzuyuzuvuquyuzuwuuvxzpexoxgw0pg9dB32471,,,,,e) [^4]
 - 玉山 - Pi 拍錢包: [MGM Link](https://card.esunbank.com.tw/EsunCreditweb/txnproc/selApplyCard?PRJCD=APYCRD0049&param=APYCRD0049,,,,,xOzOyOzvOqOyOzwOuBxApxvx0wtp9qBvOOr042778,,,,,e) [^5]
 - 中信 - 英雄聯盟: [MGM Link](https://ctbc.tw/BzsyOB) [^6]
