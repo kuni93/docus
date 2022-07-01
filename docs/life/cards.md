@@ -8,15 +8,14 @@
 銀行卡別           | 回饋   | 回饋方式        | 額度反推  | 門檻條件         | 期限        | 備註
 -----------------|------:|---------------|--------:|----------------|------------|-----
 玉山 - UBear      |`13  %`| 當期帳單折抵     |`$ 1,538`| 指定娛樂影音平台   | 2023-02-28
-兆豐 - e 秒 Happy　|`10  %`| 下期帳單折抵     |`$ 2,000`| 8 大行動支付　    | 2022-06-30
-中信 - 英雄聯盟     |`10  %`| 下期帳單折抵     |`$ 3,333`| 指定數位通路      | 2022-06-30 | 海外額度反推為`$4000`
+中信 - 英雄聯盟     |`10  %`| 下期帳單折抵     |`$ 3,333`| 指定數位通路      | 2022-12-31 | 海外額度反推為`$4000`
 玉山 - Pi 拍錢包　  |` 4  %`| P 幣（Pi 拍錢包）|`$10,000`| Pi 拍錢包合作通路　| 2023-02-28 | 排除超商
 玉山 - UBear      |` 3  %`| 當期帳單折抵     |`$10,000`| 網路一般消費      | 2023-02-28 | 超出額度為 1% 回饋
 兆豐 - e 秒刷      |` 3  %`| 下期帳單折抵     |`$10,000`| 網路一般消費      | 2022-12-31 | 排除行動支付
 玉山 - Pi 拍錢包　  |` 3  %`| P 幣（Pi 拍錢包）|`$15,000`| 海外一般消費      | 2023-02-28
 中信 - Line Pay   |` 2.8%`| Line Point    | 無上限　  | 海外一般消費      | 2022-12-31
-連線 - 快點卡　     |` 2  %`| Line Point    |`$25,000`| 一般消費         | 2022-06-30
 玉山 - Pi 拍錢包　  |` 2  %`| P 幣（Pi 拍錢包）|`$30,000`| 保險消費         | 2023-02-28
+連線 - 快點卡　     |` 1.5%`| Line Point    |`$33,333`| 一般消費         | 2022-08-31 | 簽帳
 玉山 - UBear      |` 1  %`| 當期帳單折抵     | 無上限　  | 一般消費         | 2023-02-28 | 排除 13 % 項目
 
 
@@ -70,11 +69,7 @@ Disney+, Nintendo, PlayStation, Netflix, Spotify [^1]
 
 ### 中信 指定數位通路
 
-App Store、Google Play、Bandai(萬代南夢宮遊戲)、Blizzard(暴雪)、Electronic arts、Epic games store、GASH、Garena、MyCard、Nintendo、PlayStation、Square enix、Steam、Ubisoft、Xbox
-Apple TV、CATCHPLAY、iTunes、KKBOX、LINE TV、LiTV、Netflix、Spotify、Youtube Premium、KKTV、Amazon Prime Video、Disney+
-Amazon Web Services、Dropbox、Google Drive、iCloud、Microsoft OneDrive
-台灣角川官方網站、尖端網路書店、青文出版社、長鴻新漫網、台灣東販出版社、東立電子書城、動畫瘋(限APP內購)、Booklive、BOOKWALKER、Kakao Webtoon、LINE Webtoon、POCKET COMICS
-udn售票、iNDIEVOX售票、KKTIX售票、ibon售票、tixcraft拓元售票、FamiTicket全網購票、OPENTIX兩廳院文化生活、中信兄弟售票網、年代售票、寬宏售票
+App Store、Google Play、Bandai(萬代南夢宮遊戲)、Blizzard(暴雪)、Electronic arts、Epic games store、GASH、Garena、MyCard、Nintendo、PlayStation、Square enix、Steam、Ubisoft、Xbox、Apple TV、CATCHPLAY、iTunes、KKBOX、LINE TV、LiTV、Netflix、Spotify、Youtube Premium、KKTV、Amazon Prime Video、Disney+、Amazon Web Services、Dropbox、Google Drive、iCloud、Microsoft OneDrive、台灣角川官方網站、尖端網路書店、青文出版社、長鴻新漫網、台灣東販出版社、東立電子書城、動畫瘋(限APP內購)、Booklive、BOOKWALKER、Kakao Webtoon、LINE WEBTOON、POCKET COMICS、讀墨、ibon售票、udn售票、iNDIEVOX售票、KKTIX售票、tixcraft拓元售票、FamiTicket全網購票、中信兄弟售票網、OPENTIX兩廳院文化生活、年代售票、寬宏售票
 [^3]
 
 
